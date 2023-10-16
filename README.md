@@ -1,5 +1,5 @@
-💻 Web Developer 
-🟥 Angular
-☁️ AWS
+### 💻 Web Developer 
+### 🟥 Angular
+### ☁️ AWS
 
 📍Colombia
